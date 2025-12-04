@@ -1,0 +1,1 @@
+burada amacım derin öğrenme için kodların temelini oturtmak. Bu tarz uygulamalrı geliştireceğim adım adım. Random  random forest classifier  kullandım.  Alt klasörler dahil verileri okudum . Aynı boyut, gürültü azaltma, normalize, gri tona eşitleme , kontrast belirginleştirme yaptım. Veriyi 20/ 80 böldüm ve tahmin yaptırdım. 
